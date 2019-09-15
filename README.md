@@ -1,2 +1,2 @@
-# PrivacyPolicies
-Privacy Policies of my apps
+# Privacy Policies
+Repository of privacy policy for my apps in App store.
