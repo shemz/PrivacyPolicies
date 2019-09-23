@@ -41,7 +41,7 @@ I value your trust in providing us your Personal Information, thus we are strivi
 
 # **Children&#39;s Privacy**
 
-Anyone with a Google ID can use the app. These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+Anyone with a Google ID can use the app. I do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
 
 # **Changes to This Privacy Policy**
 
